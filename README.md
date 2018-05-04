@@ -1,0 +1,2 @@
+# SSA
+source scan algorithm
